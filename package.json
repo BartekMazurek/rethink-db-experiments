@@ -1,0 +1,14 @@
+{
+  "name": "rethink_db_node_experiments",
+  "version": "1.0.0",
+  "description": "RethinkDB & Node experiments",
+  "author": "Bartłomiej Mazurek <bartlomiej.mazurek9@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1",
+    "express": "^4.17"
+  }
+}
